@@ -11,6 +11,8 @@ This app contains the following features:
    - A gif showing how to perform the exercise
    - If the user completes the exercise for the set time, an applause audio is played
 
+To view the working demo of the project, go to demo folder
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
